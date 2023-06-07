@@ -1,0 +1,901 @@
+[
+    {
+        "number": "orie orientale الشرقي",
+        "name": "Radio orientale الشرقي",
+        "desc": "Music orientale",
+        "streamURL": "https://radiodzair.net:8070/orientale?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/orie.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "magh 100% M'GHARBA ",
+        "name": "Radio 100% مغاربة",
+        "desc": "Music maghrebi",
+        "streamURL": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/MA/radio/magh.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "tara tarab  الطرب",
+        "name": "Radio tarab  الطرب",
+        "desc": "Music tarab",
+        "streamURL": "https://streaming2.rimradio.ma/livetarab",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/tara.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "dzai dzair  دزاير",
+        "name": "Radio dzair  دزاير",
+        "desc": "Music dzair",
+        "streamURL": "https://radiodzair.net:8000/dzair?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/dzai.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "chaa chaabi  الشعبي",
+        "name": "Radio chaabi  الشعبي",
+        "desc": "Music chaabi",
+        "streamURL": "https://radiodzair.net:8010/chaabia?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/chaa.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "aure aures  الشاوي",
+        "name": "Radio aures  الشاوي",
+        "desc": "Music chaoui",
+        "streamURL": "https://radiodzair.net:8050/aures?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/aure.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "anda andalos الأندلسي",
+        "name": "Radio andalos الأندلسي",
+        "desc": "Music andaloussia",
+        "streamURL": "https://radiodzair.net:8020/andaloussia?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/anda.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "saha sahara  الصحراوي",
+        "name": "Radio sahara  الصحراوي",
+        "desc": "Music sahraoui",
+        "streamURL": "https://radiodzair.net:8040/sahara?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/saha.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "izur izuran القبائلي",
+        "name": "Radio izuran القبائلي",
+        "desc": "Music izuran",
+        "streamURL": "https://radiodzair.net:8030/izuran?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/izur.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "jowr jow rai  جو راي",
+        "name": "Radio jow rai  جو راي",
+        "desc": "Music Rai",
+        "streamURL": "https://ice.creacast.com/jowradio-rai",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jowr.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "joww jow   جــو",
+        "name": "Radio jow   جــو",
+        "desc": "Music All",
+        "streamURL": "https://ice.creacast.com/jowradio",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/joww.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "jile jile fm جيل",
+        "name": "Radio jile fm جيل",
+        "desc": "Music Rai All",
+        "streamURL": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jile.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "cha1 chaine 1 الأولى",
+        "name": "Radio chaine 1 الأولى",
+        "desc": "public national channel",
+        "streamURL": "https://webradio.tda.dz/Chaine1_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha1.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "cha2 chaine 2 الثانية",
+        "name": "Radio chaine 2 الثانية",
+        "desc": "public national channel",
+        "streamURL": "https://webradio.tda.dz/Chaine2_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha2.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "cha3 chaine 3 الثالثة",
+        "name": "Radio chaine 3 الثانية",
+        "desc": "public national channel",
+        "streamURL": "https://webradio.tda.dz/Chaine3_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha3.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "inte Internationale الدولية",
+        "name": "Radio Internationale الدولية",
+        "desc": "International news channel",
+        "streamURL": "https://webradio.tda.dz/Internationale_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/inte.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "qran Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "https://webradio.tda.dz/Coran_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qran.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "cult culture الثقافية",
+        "name": "Radio culture الثقافية",
+        "desc": "Music culture art",
+        "streamURL": "https://webradio.tda.dz/Culture_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cult.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "bahd Bahdja البهجة",
+        "name": "Radio Bahdja البهجة",
+        "desc": "news music culture all",
+        "streamURL": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/bahd.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "afri Africa Hits أفريكا",
+        "name": "Radio Africa Hits أفريكا",
+        "desc": "news music culture all",
+        "streamURL": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+        "imageURL":
+        "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/afri.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "hawa hawana هوانا",
+        "name": "Radio hawana هوانا",
+        "desc": "All Music ",
+        "streamURL": "http://manager6.streamradio.fr:1980/stream/1/",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hawa.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "rrrr R أر",
+        "name": "Radio R أر",
+        "desc": "All Music ",
+        "streamURL": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/rrrr.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "hitt hit هيت",
+        "name": "Radio hit هيت",
+        "desc": "All Music ",
+        "streamURL": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hitt.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "nogo nogoum نجوم",
+        "name": "Radio nogoum نجوم",
+        "desc": "All Music ",
+        "streamURL": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/nogo.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "beur beur بور",
+        "name": "Radio beur بور",
+        "desc": "All Music ",
+        "streamURL": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/beur.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "boll bollywood بوليود",
+        "name": "Radio bollywood بوليود",
+        "desc": "All Music ",
+        "streamURL": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/boll.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "Hits Hits 1 هيتس",
+        "name": "Radio Hits 1 هيتس",
+        "desc": "All Music ",
+        "streamURL": "https://radio7.pro-fhi.net/live/Hits1radio",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hawa.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "cora Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "http://s2.voscast.com:12312/;",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cora.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "corr Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "http://live.mp3quran.net:9956/",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/corr.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "coor Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/coor.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "qorr Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qorr.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "qooo Quoran القرآن الكريم",
+        "name": "Radio Quoran القرآن الكريم",
+        "desc": "Quoran Karim القرآن الكريم",
+        "streamURL": "http://listen.radio-coran.net:8000/live.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qooo.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra01 adrar أدرار",
+        "name": "Radio adrar أدرار",
+        "desc": "01 local channel",
+        "streamURL": "https://webradio.tda.dz/Adrar_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra01.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra02 Chlef الشلف",
+        "name": "Radio Chlef الشلف",
+        "desc": "02 local channel",
+        "streamURL": "https://webradio.tda.dz/Chlef_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra02.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra03 Laghouat الأغواط",
+        "name": "Radio Laghouat الأغواط",
+        "desc": "03 local channel",
+        "streamURL": "https://webradio.tda.dz/Laghouat_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra03.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra04 OumBouaghi أم البواقي",
+        "name": "Radio OumBouaghi أم البواقي",
+        "desc": "04 local channel",
+        "streamURL": "https://webradio.tda.dz/OumBouaghi_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra04.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra05 Batna باتنة",
+        "name": "Radio Batna باتنة",
+        "desc": "05 local channel",
+        "streamURL": "https://webradio.tda.dz/Batna_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra05.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra06 Bejaia بجاية",
+        "name": "Radio Bejaia بجاية",
+        "desc": "06 local channel",
+        "streamURL": "https://webradio.tda.dz/Bejaia_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra06.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra07 Biskra بسكرة",
+        "name": "Radio Biskra بسكرة",
+        "desc": "07 local channel",
+        "streamURL": "https://webradio.tda.dz/Biskra_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra07.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra08 Bechar بشار",
+        "name": "Radio Bechar بشار",
+        "desc": "08 local channel",
+        "streamURL": "https://webradio.tda.dz/Bechar_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra08.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra09 Blida البليدة",
+        "name": "Radio Blida البليدة",
+        "desc": "09 local channel",
+        "streamURL": "https://webradio.tda.dz/Blida_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra09.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra10 Bouira البويرة",
+        "name": "Radio Bouira البويرة",
+        "desc": "10 local channel",
+        "streamURL": "https://webradio.tda.dz/Bouira_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra10.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra11 Tamanrasset تمنراست",
+        "name": "Radio Tamanrasset تمنراست",
+        "desc": "11 local channel",
+        "streamURL": "https://webradio.tda.dz/Tamanrasset_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra11.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra12 Tebessa تبسة",
+        "name": "Radio Tebessa تبسة",
+        "desc": "12 local channel",
+        "streamURL": "https://webradio.tda.dz/Tebessa_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra12.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra13 Tlemcen تلمسان",
+        "name": "Radio Tlemcen تلمسان",
+        "desc": "13 local channel",
+        "streamURL": "https://webradio.tda.dz/Tlemcen_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra13.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra14 Tiaret تيارت",
+        "name": "Radio Tiaret تيارت",
+        "desc": "14 local channel",
+        "streamURL": "https://webradio.tda.dz/Tiaret_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra14.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra15 TiziOuzou تيزي وزو",
+        "name": "Radio TiziOuzou تيزي وزو",
+        "desc": "15 local channel",
+        "streamURL": "https://webradio.tda.dz/TiziOuzou_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra15.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra16 dzair الجزائر",
+        "name": "Radio dzair الجزائر",
+        "desc": "16 local channel",
+        "streamURL": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra16.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra17 Djelfa الجلفة",
+        "name": "Radio Djelfa الجلفة",
+        "desc": "17 local channel",
+        "streamURL": "https://webradio.tda.dz/Djelfa_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra17.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra18 Jijel جيجل",
+        "name": "Radio Jijel جيجل",
+        "desc": "18 local channel",
+        "streamURL": "https://webradio.tda.dz/Jijel_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra18.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra19 Setif سطيف",
+        "name": "Radio Setif سطيف",
+        "desc": "19 local channel",
+        "streamURL": "https://webradio.tda.dz/Setif_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra19.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra20 Saida سعيدة",
+        "name": "Radio Saida سعيدة",
+        "desc": "20 local channel",
+        "streamURL": "https://webradio.tda.dz/Saida_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra20.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra21 Skikda سكيكدة",
+        "name": "Radio Skikda سكيكدة",
+        "desc": "21 local channel",
+        "streamURL": "https://webradio.tda.dz/Skikda_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra21.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra22 SidiBelabes بلعباس",
+        "name": "Radio SidiBelabes بلعباس",
+        "desc": "22 local channel",
+        "streamURL": "https://webradio.tda.dz/SidiBelabes_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra22.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra23 Annaba عنابة",
+        "name": "Radio Annaba عنابة",
+        "desc": "23 local channel",
+        "streamURL": "https://webradio.tda.dz/Annaba_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra23.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra24 Guelma قالمة",
+        "name": "Radio Guelma قالمة",
+        "desc": "24 local channel",
+        "streamURL": "https://webradio.tda.dz/Guelma_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra24.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra25 Constantine قسنطينة",
+        "name": "Radio Constantine قسنطينة",
+        "desc": "25 local channel",
+        "streamURL": "https://webradio.tda.dz/Constantine_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra25.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra26 Medea المدية",
+        "name": "Radio Medea المدية",
+        "desc": "26 local channel",
+        "streamURL": "https://webradio.tda.dz/Medea_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra26.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra27 Mostaganem مستغانم",
+        "name": "Radio Mostaganem مستغانم",
+        "desc": "27 local channel",
+        "streamURL": "https://webradio.tda.dz/Mostaganem_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra27.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra28 Msila المسيلة",
+        "name": "Radio Msila المسيلة",
+        "desc": "28 local channel",
+        "streamURL": "https://webradio.tda.dz/Msila_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra28.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra29 Mascara معسكر",
+        "name": "Radio Mascara معسكر",
+        "desc": "29 local channel",
+        "streamURL": "https://webradio.tda.dz/Mascara_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra29.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra30 Ouargla ورقلة",
+        "name": "Radio Ouargla ورقلة",
+        "desc": "30 local channel",
+        "streamURL": "https://webradio.tda.dz/Ouargla_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra30.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra31 Oran وهران",
+        "name": "Radio Oran وهران",
+        "desc": "31 local channel",
+        "streamURL": "https://webradio.tda.dz/Oran_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra31.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra32 ElBayedh البيض",
+        "name": "Radio ElBayedh البيض",
+        "desc": "32 local channel",
+        "streamURL": "https://webradio.tda.dz/ElBayedh_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra32.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra33 Illizi إيليزي",
+        "name": "Radio Illizi إيليزي",
+        "desc": "33 local channel",
+        "streamURL": "https://webradio.tda.dz/Illizi_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra33.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra34 BordjBouArreridj البرج",
+        "name": "Radio BordjBouArreridj البرج",
+        "desc": "34 local channel",
+        "streamURL": "https://webradio.tda.dz/BordjBouArreridj_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra34.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra35 Boumerdes بومرداس",
+        "name": "Radio Boumerdes بومرداس",
+        "desc": "35 local channel",
+        "streamURL": "https://webradio.tda.dz/Boumerdes_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra35.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra36 Taref الطارف",
+        "name": "Radio Taref الطارف",
+        "desc": "36 local channel",
+        "streamURL": "https://webradio.tda.dz/Taref_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra36.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra37 Tindouf تندوف",
+        "name": "Radio Tindouf تندوف",
+        "desc": "37 local channel",
+        "streamURL": "https://webradio.tda.dz/Tindouf_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra37.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra38 Tissemssilt تسمسيلت",
+        "name": "Radio Tissemssilt تسمسيلت",
+        "desc": "38 local channel",
+        "streamURL": "https://webradio.tda.dz/Tissemssilt_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra38.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra39 ouedSouf واد سوف",
+        "name": "Radio ouedSouf واد سوف",
+        "desc": "39 local channel",
+        "streamURL": "https://webradio.tda.dz/ouedSouf_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra39.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra40 Khenchela خنشلة",
+        "name": "Radio Khenchela خنشلة",
+        "desc": "40 local channel",
+        "streamURL": "https://webradio.tda.dz/Khenchela_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra40.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra41 SoukAhras سوق أهراس",
+        "name": "Radio SoukAhras سوق أهراس",
+        "desc": "41 local channel",
+        "streamURL": "https://webradio.tda.dz/SoukAhras_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra41.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra42 Tipaza تبازة",
+        "name": "Radio Tipaza تبازة",
+        "desc": "42 local channel",
+        "streamURL": "https://webradio.tda.dz/Tipaza_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra42.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra43 Mila ميلة",
+        "name": "Radio Mila ميلة",
+        "desc": "43 local channel",
+        "streamURL": "https://webradio.tda.dz/Mila_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra43.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra44 AinDefla عين الدفلى",
+        "name": "Radio AinDefla عين الدفلى",
+        "desc": "44 local channel",
+        "streamURL": "https://webradio.tda.dz/AinDefla_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra44.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra45 Naama النعامة",
+        "name": "Radio Naama النعامة",
+        "desc": "45 local channel",
+        "streamURL": "https://webradio.tda.dz/Naama_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra45.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra46 Timouchent تموشنت",
+        "name": "Radio Timouchent تموشنت",
+        "desc": "46 local channel",
+        "streamURL": "https://webradio.tda.dz/AinTimouchent_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra46.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra47 Ghardaia غرداية",
+        "name": "Radio Ghardaia غرداية",
+        "desc": "47 local channel",
+        "streamURL": "https://webradio.tda.dz/Ghardaia_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra47.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ra48 Relizan غليزان",
+        "name": "Radio Relizan غليزان",
+        "desc": "48 local channel",
+        "streamURL": "https://webradio.tda.dz/Relizan_64K.mp3",
+        "imageURL": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra48.png",
+        "location" : "Alternative, New York",
+        "listener" : "50 Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    }
+]
